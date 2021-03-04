@@ -13,10 +13,9 @@ Database access utility library **for myself**.
 
 In `composer.json` in your project directory, please add:
 
-```jsonc:composer.json
+```json:composer.json
 {
     "require": {
-        // Please specify the latest version (now(2021.3) latest version is 1.0)
         "enchan1207/dbaccess": "^1.0",
     },
     "repositories": [
@@ -28,7 +27,9 @@ In `composer.json` in your project directory, please add:
 }
 ```
 
-and execute `composer install`.
+and execute `composer install`.  
+
+:warning: Please specify the latest version to `require`. (now(2021.3) latest version is 1.0)
 
 ## Usage
 
