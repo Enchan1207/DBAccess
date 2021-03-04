@@ -2,7 +2,6 @@
     //
     // DB接続ユーティリティクラス
     //
-    ini_set('display_errors', 'On');
     class DBAccess{
         private $pdo;
         private $stmt;
