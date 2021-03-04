@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "DBAccess\\": "src/"
+            "DBAccess\\": "src/DBAccess/"
         }
     }
 }
