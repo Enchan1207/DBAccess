@@ -2,6 +2,8 @@
     //
     // DB接続ユーティリティクラス
     //
+    namespace DBAccess;
+    use PDO, PDOException;
     class DBAccess{
         private $pdo;
         private $stmt;
