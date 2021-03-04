@@ -1,0 +1,21 @@
+
+{
+    "name": "enchan1207/dbaccess",
+    "description": "DB Access Utility",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Enchan",
+            "email": "enchant0130@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "enchan1207\\dbaccess\\": "src/DBAccess/"
+        }
+    }
+}
